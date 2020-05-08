@@ -42,7 +42,7 @@ into this div in the `useme.examples` files's `table_example()` method.
 
 #### Directed Graph
 
-You'll add a placeholder `div` with the type `digraph` and give it a unique `id`
+You'll add a placeholder `div` with the type `network` and give it a unique `id`
 for the digraph to be rendered in the html page. You will also declare a placeholder
 within the div like before.
 
@@ -51,7 +51,7 @@ within the div like before.
 .
 .
 <body>
-    <div type="digraph" id="digraph_example">
+    <div type="network" id="digraph_example">
         $digraph_example
     </div>
 </body>

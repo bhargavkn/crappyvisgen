@@ -25,23 +25,20 @@
 
     <h3>Digraph</h3>
 
-    <div type="network" id="network_example" style="height:300px; width:500px; border:thick solid #000000;">
-        $network_example
+    <div type="network" id="digraph_example" style="height:300px; width:500px; border:thick solid #000000;">
+        $digraph_example
     </div>
 
     <br>
 
     <h3>Table</h3>
 
-    <div type="network" id="table_example" style="width:80%;">
+    <div type="table" id="table_example" style="width:80%;">
         $table_example
     </div>
 
     <!-- JQuery -->
-    <script
-        src="https://code.jquery.com/jquery-3.5.1.min.js"
-        integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
-        crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/vis/4.0.0/vis.js">
     </script>
